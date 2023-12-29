@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+title: myMLnotes
+description: the notebook of telegraphpolehead when learning ML
+repository:
+  url: https://github.com/telegraph-pole-head/myMLnotes
+  branch: main
+html:
+  home_page_in_navbar: true
+  use_repository_button: true
