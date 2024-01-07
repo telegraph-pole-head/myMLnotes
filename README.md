@@ -17,3 +17,5 @@ the notes for my learning process of Machine Learning
 - [leetcode](https://leetcode.com/explore/learn/card/machine-learning-101/)
 - [coursera](https://www.coursera.org/learn/machine-learning)
 - [CS189](https://eecs189.org/)
+
+ak-2yrSGUmJQeGZnTdH4z2o3eDqvkmoHqd9xUCzH4cd8v1cL1Lv
